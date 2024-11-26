@@ -15,7 +15,7 @@
 [//]: # (auto_cargo_toml_to_md end)
 
  ![status](https://img.shields.io/badge/tutorial-yellow)
- ![counter_egui](https://bestia.dev/webpage_hit_counter/get_svg_image/748236206.svg)
+ ![counter_egui](https://bestia.dev/webpage_hit_counter/get_svg_image/2117022954.svg)
 
 Hashtags: #tutorial #egui #rust #gui  
 My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
