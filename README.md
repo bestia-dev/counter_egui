@@ -37,10 +37,6 @@ cd ~/rustprojects/counter_egui
 ./counter_egui.exe
 ```
 
-## TODO
-
-- how to define the initial size of the window? Now is too big.
-
 ## Open-source and free as a beer
 
 My open-source projects are free as a beer (MIT license).  
