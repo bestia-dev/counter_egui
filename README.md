@@ -5,7 +5,7 @@
 [//]: # (auto_cargo_toml_to_md start)
 
 **counter GUI with egui**  
-***version: 2024.1129.1419 date: 2024-11-29 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/counter_egui)***
+***version: 2024.1129.1437 date: 2024-11-29 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/counter_egui)***
 
  ![tutorial](https://img.shields.io/badge/tutorial-orange)
  ![egui](https://img.shields.io/badge/egui-orange)
@@ -29,6 +29,8 @@ This is an "immediate mode" GUI, but I will not need that in my future work.
 ## Cross compile to windows
 
 On my machine I have Windows11 with WSL/Debian. I will cross compile to Windows, copy the exe file with `scp` and run it on Windows.  
+I use `cargo-auto` for automation of the build process and to commit to GitHub. Just run `cargo auto` and follow the instructions. To work with GitHub it will need the Personal Access Token from <https://github.com/settings/tokens>.
+
 Copy the exe file from the container 'crustde' to win folder. Run in windows git-bash:
 
 ```bash

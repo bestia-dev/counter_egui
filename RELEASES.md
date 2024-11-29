@@ -10,13 +10,16 @@ The TODO section is part of the [README.md](https://github.com/bestia-dev/counte
 
 ## Unreleased
 
-- docs
+- auto
+
+## Version 2024.1129.1419 (2024-11-29)
 
 - docs
 
 ## Version 2024.1126.1404 (2024-11-26)
 
-- x
+- working
 
 ## Version 0.0.1
 
+- init

@@ -771,7 +771,7 @@ dependencies = [
 
 [[package]]
 name = "counter_egui"
-version = "2024.1129.1419"
+version = "2024.1129.1437"
 dependencies = [
  "eframe",
  "egui",
