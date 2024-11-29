@@ -1,5 +1,8 @@
+// counter_egui/src/main.rs
+
+#![doc=include_str!("../README.md")]
+// this will avoid Windows to show the terminal when running the program
 #![windows_subsystem = "windows"]
-use eframe::egui;
 
 fn main() -> eframe::Result {
     env_logger::init(); // Log to stderr (if you run with `RUST_LOG=debug`).

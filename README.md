@@ -5,7 +5,7 @@
 [//]: # (auto_cargo_toml_to_md start)
 
 **counter GUI with egui**  
-***version: 2024.1126.1404 date: 2024-11-26 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/counter_egui)***
+***version: 2024.1129.1419 date: 2024-11-29 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/counter_egui)***
 
  ![tutorial](https://img.shields.io/badge/tutorial-orange)
  ![egui](https://img.shields.io/badge/egui-orange)
@@ -23,6 +23,8 @@ My projects on GitHub are more like a tutorial than a finished product: [bestia-
 ## GUI for windows
 
 A simple test program that creates a simple GUI for Windows with the crate `egui`.
+
+This is an "immediate mode" GUI, but I will not need that in my future work.
 
 ## Cross compile to windows
 
