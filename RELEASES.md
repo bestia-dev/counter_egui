@@ -10,6 +10,8 @@ The TODO section is part of the [README.md](https://github.com/bestia-dev/counte
 
 ## Unreleased
 
+## Version 2025.331.1358 (2025-03-31)
+
 - auto
 
 - update automation, clippy
