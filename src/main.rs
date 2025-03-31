@@ -29,7 +29,10 @@ struct MyApp {
 
 impl Default for MyApp {
     fn default() -> Self {
-        Self { name: "Arthur".to_owned(), age: 42 }
+        Self {
+            name: "Arthur".to_owned(),
+            age: 42,
+        }
     }
 }
 
