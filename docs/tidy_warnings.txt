@@ -1,29 +1,34 @@
 ./docs/help.html
 Document: "2" is not a file!
 
-line 1 column 2449 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
-line 1 column 2449 - Warning: discarding unexpected <rustdoc-search>
-line 1 column 2465 - Warning: discarding unexpected </rustdoc-search>
-line 1 column 1791 - Warning: trimming empty <button>
+line 1 column 2321 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
+line 1 column 2321 - Warning: discarding unexpected <rustdoc-search>
+line 1 column 2337 - Warning: discarding unexpected </rustdoc-search>
+line 1 column 1679 - Warning: trimming empty <button>
 This document has errors that must be fixed before
 using HTML Tidy to generate a tidied up version.
 
 ./docs/settings.html
 Document: "2" is not a file!
 
-line 1 column 2451 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
-line 1 column 2451 - Warning: discarding unexpected <rustdoc-search>
-line 1 column 2467 - Warning: discarding unexpected </rustdoc-search>
-line 1 column 1789 - Warning: trimming empty <button>
+line 1 column 2323 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
+line 1 column 2323 - Warning: discarding unexpected <rustdoc-search>
+line 1 column 2339 - Warning: discarding unexpected </rustdoc-search>
+line 1 column 1677 - Warning: trimming empty <button>
 This document has errors that must be fixed before
 using HTML Tidy to generate a tidied up version.
 
 ./docs/src/counter_egui/main.rs.html
 Document: "2" is not a file!
 
-line 1 column 2071 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
-line 1 column 2071 - Warning: discarding unexpected <rustdoc-search>
-line 1 column 2087 - Warning: discarding unexpected </rustdoc-search>
+line 1 column 1951 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
+line 1 column 1951 - Warning: discarding unexpected <rustdoc-search>
+line 1 column 1967 - Warning: discarding unexpected </rustdoc-search>
+line 1 column 2057 - Warning: <div> isn't allowed in <h1> elements
+line 1 column 2095 - Warning: discarding unexpected </div>
+line 1 column 2113 - Error: <rustdoc-toolbar> is not recognized! Did you mean to enable the custom-tags option?
+line 1 column 2113 - Warning: discarding unexpected <rustdoc-toolbar>
+line 1 column 2130 - Warning: discarding unexpected </rustdoc-toolbar>
 This document has errors that must be fixed before
 using HTML Tidy to generate a tidied up version.
 
@@ -35,29 +40,35 @@ line 1 column 1 - Warning: inserting missing 'title' element
 ./docs/counter_egui/fn.main.html
 Document: "2" is not a file!
 
-line 1 column 2248 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
-line 1 column 2248 - Warning: discarding unexpected <rustdoc-search>
-line 1 column 2264 - Warning: discarding unexpected </rustdoc-search>
-line 1 column 1905 - Warning: trimming empty <button>
+line 1 column 2166 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
+line 1 column 2166 - Warning: discarding unexpected <rustdoc-search>
+line 1 column 2182 - Warning: discarding unexpected </rustdoc-search>
+line 1 column 2474 - Error: <rustdoc-toolbar> is not recognized! Did you mean to enable the custom-tags option?
+line 1 column 2474 - Warning: discarding unexpected <rustdoc-toolbar>
+line 1 column 2491 - Warning: discarding unexpected </rustdoc-toolbar>
+line 1 column 1793 - Warning: trimming empty <button>
 This document has errors that must be fixed before
 using HTML Tidy to generate a tidied up version.
 
 ./docs/counter_egui/all.html
 Document: "2" is not a file!
 
-line 1 column 2301 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
-line 1 column 2301 - Warning: discarding unexpected <rustdoc-search>
-line 1 column 2317 - Warning: discarding unexpected </rustdoc-search>
-line 1 column 1834 - Warning: trimming empty <button>
+line 1 column 2313 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
+line 1 column 2313 - Warning: discarding unexpected <rustdoc-search>
+line 1 column 2329 - Warning: discarding unexpected </rustdoc-search>
+line 1 column 1722 - Warning: trimming empty <button>
 This document has errors that must be fixed before
 using HTML Tidy to generate a tidied up version.
 
 ./docs/counter_egui/struct.MyApp.html
 Document: "2" is not a file!
 
-line 1 column 4282 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
-line 1 column 4282 - Warning: discarding unexpected <rustdoc-search>
-line 1 column 4298 - Warning: discarding unexpected </rustdoc-search>
+line 1 column 4734 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
+line 1 column 4734 - Warning: discarding unexpected <rustdoc-search>
+line 1 column 4750 - Warning: discarding unexpected </rustdoc-search>
+line 1 column 5045 - Error: <rustdoc-toolbar> is not recognized! Did you mean to enable the custom-tags option?
+line 1 column 5045 - Warning: discarding unexpected <rustdoc-toolbar>
+line 1 column 5062 - Warning: discarding unexpected </rustdoc-toolbar>
 line 4 column 840 - Warning: missing </summary> before <section>
 line 4 column 1165 - Warning: discarding unexpected </summary>
 line 4 column 1242 - Warning: missing </summary> before <section>
@@ -170,7 +181,7 @@ line 28 column 113 - Warning: missing </summary> before <section>
 line 28 column 375 - Warning: discarding unexpected </summary>
 line 29 column 260 - Warning: <div> isn't allowed in <h3> elements
 line 30 column 16 - Warning: discarding unexpected </div>
-line 1 column 1915 - Warning: trimming empty <button>
+line 1 column 1803 - Warning: trimming empty <button>
 line 4 column 840 - Warning: trimming empty <summary>
 line 4 column 1242 - Warning: trimming empty <summary>
 line 4 column 1740 - Warning: trimming empty <summary>
@@ -221,10 +232,13 @@ using HTML Tidy to generate a tidied up version.
 ./docs/counter_egui/index.html
 Document: "2" is not a file!
 
-line 1 column 2393 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
-line 1 column 2393 - Warning: discarding unexpected <rustdoc-search>
-line 1 column 2409 - Warning: discarding unexpected </rustdoc-search>
-line 1 column 1847 - Warning: trimming empty <button>
+line 1 column 2857 - Error: <rustdoc-search> is not recognized! Did you mean to enable the custom-tags option?
+line 1 column 2857 - Warning: discarding unexpected <rustdoc-search>
+line 1 column 2873 - Warning: discarding unexpected </rustdoc-search>
+line 1 column 3081 - Error: <rustdoc-toolbar> is not recognized! Did you mean to enable the custom-tags option?
+line 1 column 3081 - Warning: discarding unexpected <rustdoc-toolbar>
+line 1 column 3098 - Warning: discarding unexpected </rustdoc-toolbar>
+line 1 column 1735 - Warning: trimming empty <button>
 This document has errors that must be fixed before
 using HTML Tidy to generate a tidied up version.
 

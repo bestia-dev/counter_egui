@@ -1,5 +1,5 @@
 (function() {
-    var implementors = Object.fromEntries([["counter_egui",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.82.0/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"counter_egui/struct.MyApp.html\" title=\"struct counter_egui::MyApp\">MyApp</a>"]]]]);
+    var implementors = Object.fromEntries([["counter_egui",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.85.0/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"counter_egui/struct.MyApp.html\" title=\"struct counter_egui::MyApp\">MyApp</a>"]]]]);
     if (window.register_implementors) {
         window.register_implementors(implementors);
     } else {
