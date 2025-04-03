@@ -1,6 +1,6 @@
 [package]
 name = "counter_egui"
-version = "2025.331.1358"
+version = "2025.403.1018"
 authors = ["bestia.dev"]
 homepage = "https://bestia.dev"
 edition = "2021"
