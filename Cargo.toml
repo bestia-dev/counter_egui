@@ -8,6 +8,7 @@ description = "counter GUI with egui"
 repository = "https://github.com/bestia-dev/counter_egui"
 readme = "README.md"
 license = "MIT"
+# Keyword must be only one word: lowercase letters, hyphens(-) or numbers, less then 35 characters, at most 5 keywords per crate
 keywords = ["tutorial","egui","rust","gui"]
 categories = ["gui"]
 publish = false
